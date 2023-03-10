@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "flyoverkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SvenTiigi/FlyoverKit.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "568c25120bffa4c66d43cb9924d878d6adc94caa"
+      }
+    }
+  ],
+  "version" : 2
+}
